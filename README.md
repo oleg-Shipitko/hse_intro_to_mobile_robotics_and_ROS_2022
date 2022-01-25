@@ -5,10 +5,12 @@ The course will consider the algorithms that form the basis of modern mobile rob
 
 # Lecturer 
 Oleg Shipitko
+
 Telegram: @oleg_shipitko
 
 # Seminarian
 Andrey Sokolov
+
 Telegram: @AndyXPV
 
 ## Course Content

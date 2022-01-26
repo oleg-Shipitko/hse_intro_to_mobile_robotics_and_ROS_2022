@@ -15,10 +15,10 @@ Telegram: @AndyXPV
 
 ## Course Content
 
-# Video content
+### Video content
 [YouTube Channel](https://www.youtube.com/playlist?list=PL2PmRem6srUkMdGYdtELvFG2ttZsGZPUi)
 
-# Slides
+### Slides
 | Week | Lecture Content | Seminar Content | Materials |
 | --- | --- | --- | --- |
 |01|Introduction to Robotics|  | [Week 1 materilas](https://github.com/oleg-Shipitko/Intro_to_mobile_robotics_and_ROS/tree/master/week01_introduction) |

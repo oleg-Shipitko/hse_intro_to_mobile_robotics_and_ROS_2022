@@ -26,7 +26,7 @@ Telegram: @AndyXPV
 |01|Introduction to Robotics|  | [Week 1 materilas](https://github.com/oleg-Shipitko/Intro_to_mobile_robotics_and_ROS/tree/master/week01_introduction) |
 |02|Localization| Intro to ROS, basic concepts, first launch | [Week 2 materilas](https://github.com/oleg-Shipitko/Intro_to_mobile_robotics_and_ROS/tree/master/week02_localization) |
 |03|Kinematics. Probabilistic motion models| ROS filesystem, package creation, comuunication types | [Week 3 materilas](https://github.com/oleg-Shipitko/Intro_to_mobile_robotics_and_ROS/tree/master/week03_motion_models) |
-|04|Probabilistic observation models| Services, actions, parameters, roslaunch | [Week 4 materilas]() | 
+|04|Probabilistic observation models| Services, actions, parameters, roslaunch | [Week 4 materilas](https://github.com/oleg-Shipitko/hse_intro_to_mobile_robotics_and_ROS/tree/master/week04_observation_models) | 
 |05|Mapping| Namespaces in ROS, time, debugging and visualization tools | [Week 5 materilas]() |
 |06|Path and Motion Planning|| [Week 6 materilas]() |https://github.com/oleg-Shipitko/Intro_to_mobile_robotics_and_ROS/tree/master/week02_localization
 |07|Control algorithms|| [Week 7 materilas]() |

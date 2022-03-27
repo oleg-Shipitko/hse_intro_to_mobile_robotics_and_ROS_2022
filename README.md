@@ -34,3 +34,6 @@ Telegram: @AndyXPV
 
 ### Course project
 Course project requirements and ideas for project topic are described in [project description and topics.pdf](https://github.com/oleg-Shipitko/hse_intro_to_mobile_robotics_and_ROS/blob/master/project%20description%20and%20topics.pdf).
+
+### Exam
+[Questions for exam](https://github.com/oleg-Shipitko/hse_intro_to_mobile_robotics_and_ROS/blob/master/exam_questions.pdf).
